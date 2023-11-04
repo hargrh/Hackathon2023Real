@@ -1,0 +1,43 @@
+/* Lab 6 CSS File */
+  
+body {
+  font-family: Arial, Helvetica, sans-serif; 
+  width: 87.5%;
+  margin-left: 12.5;
+}
+#bodyBlock {
+  width: 700px;
+  margin: auto;
+}
+#showHideBlock {
+  padding: 1em 1em 0 1em;
+  border: 1px solid black;
+}
+#showHideBlock p {
+  margin: 0 0 1em 0; 
+}
+#showHideLinks {
+  margin-bottom: 1em; 
+}
+#toggleText {
+  display: block;
+  float: right;
+}
+h1:hover {
+  cursor: pointer; 
+}
+.red {
+  color: red;
+  background-color: transparent;
+}
+
+#description{
+  margin-left: 12.5%;
+  width: 87.5%;
+  font-size: 1.2em;
+  margin-top: 10%;
+}
+
+#projects{
+  float: center;
+}

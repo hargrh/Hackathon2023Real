@@ -1,0 +1,3 @@
+4b. When you click on the new list items that are added from the add List button they turn red. This is because of the way that problem 3 was solved. By selecting the document and giving any li element within the labList id the function of toggling the red class. By selecting the document, it so even if a new element is added, it still has the function applied to it.
+
+The purpose of this lab was to create an interactive user experience using jQuery. Creating functions that allow for user input to change the content of the webpage.
