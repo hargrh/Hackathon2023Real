@@ -1,4 +1,3 @@
-var json = require("./sampleFormulary.json");
 import data from './sampleFormulary.json' assert {type: 'json'};
 
 <<<<<<< HEAD
@@ -6,7 +5,6 @@ var test = "balhfadusfishui"
 
 $(document).ready(function(){
    $("#test").html(test)
-});});
 });
 =======
 console.log(data);
