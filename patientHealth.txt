@@ -1,0 +1,25 @@
+Quality Care:
+   focus on timely, safe, effective, equitable, efficient, and patient-centered care.
+
+Epic
+
+The patient has to remember and tell the doctor. Can be issue with language barrier or cognitive issues. Doctor's don't have standardized record health system and they don't talk to each other. Making it easy to transfer record efficiently is important. Hard to work with different doctors. Not possible to know about all possible drug interactions and all drug options. Computer can check database for interaction and give warnings. 
+
+portability of records:
+   Ecounter people who come from somewhere else and they use different medical records system and cannot transfer their information. Arduous process to transfer info and people don't do it. Wastes time and money on tests that have already been done or miss important info. 
+patientsafetytech.com/patient-safety
+
+#1 error is medication errors
+
+when seeing new doctor medication information must be transferred
+difficult due to language barriers, lack of access to records,
+specialists, non standardized medical record systems
+
+example of medical record system: Epic
+
+Stanford, Kaizer, Palo Alto use Epic, making it easy to transfer records digitally
+
+databases use 
+
+pharamices starting to link with hospitals
+
