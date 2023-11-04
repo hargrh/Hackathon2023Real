@@ -1,5 +1,7 @@
 function checkCode(formObj) {
-    
+    //let awesome = new String(toString(formObj));
+    element = docstring.getElementById(formObj);
+    console.log(element.innerHTML);
 
 };
 
