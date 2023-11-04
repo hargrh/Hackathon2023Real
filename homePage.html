@@ -6,8 +6,16 @@
    <title>Drug Formulary Stuff</title>
    <link href="./resources/homePage.css" rel="stylesheet" type="text/css">
    <script type="text/javascript" src="./resources/homePage.js"></script>
+   <script type="text/javascript" src="./NDCParse.js"></script>
 </head>
    <h1>Drug Formulary Stuff</h1>
-   <form id="NDC" name="NDC"></form>
+   <form id="NDC" name="NDC" method="post" onsubmit="return checkCode(this);">
+   
+      <label class="NDC" for="NDC_code">Enter NDC Code Here: </label>
+      <div class="value"><input type="text" value="" name="NDC_code" id="NDC_code">
+      </div>
+
+
+   </form>
 </body>
 </html>
