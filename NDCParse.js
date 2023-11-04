@@ -1,3 +1,3 @@
-var json = require("./sampleFormulary.json");
+import data from './sampleFormulary.json' assert {type: 'json'};
 
-var test = "balhfadusfishui"
+console.log(data);
