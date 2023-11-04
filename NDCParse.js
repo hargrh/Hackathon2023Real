@@ -8,7 +8,6 @@ $(document).ready(function(){
 });
 =======
 console.log(data);
->>>>>>> dca4bb51f58fe55612f9743de3f9f369b1a508ec
 
 new thingy = JSON.parse(data)
 console.log(thingy)
