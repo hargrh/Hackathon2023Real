@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2023-11-03",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "product_ndc": "73408-709",
+      "marketing_end_date": "20231231",
+      "generic_name": "Ibuprofen",
+      "labeler_name": "Crane Safety, LLC",
+      "brand_name": "Crane Safety Ibuprofen",
+      "active_ingredients": [
+        {
+          "name": "IBUPROFEN",
+          "strength": "200 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "73408-709-33",
+          "description": "50 PACKET in 1 BOX (73408-709-33)  / 2 TABLET, COATED in 1 PACKET",
+          "marketing_start_date": "20200117",
+          "marketing_end_date": "20231231",
+          "sample": false
+        }
+      ],
+      "openfda": {
+        "manufacturer_name": [
+          "Crane Safety, LLC"
+        ],
+        "rxcui": [
+          "310965"
+        ],
+        "spl_set_id": [
+          "9622229e-92a7-d292-e053-2a95a90a651c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0073408908339"
+        ],
+        "nui": [
+          "N0000000160",
+          "M0001335",
+          "N0000175722"
+        ],
+        "pharm_class_moa": [
+          "Cyclooxygenase Inhibitors [MoA]"
+        ],
+        "pharm_class_cs": [
+          "Anti-Inflammatory Agents, Non-Steroidal [CS]"
+        ],
+        "pharm_class_epc": [
+          "Nonsteroidal Anti-inflammatory Drug [EPC]"
+        ],
+        "unii": [
+          "WK2XYI10QM"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, COATED",
+      "spl_id": "da474229-3ab6-ecd1-e053-2a95a90a1e92",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200117",
+      "product_id": "73408-709_da474229-3ab6-ecd1-e053-2a95a90a1e92",
+      "application_number": "ANDA079174",
+      "brand_name_base": "Crane Safety Ibuprofen",
+      "pharm_class": [
+        "Anti-Inflammatory Agents",
+        "Non-Steroidal [CS]",
+        "Cyclooxygenase Inhibitors [MoA]",
+        "Nonsteroidal Anti-inflammatory Drug [EPC]"
+      ]
+    }
+  ]
+}
