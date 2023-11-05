@@ -15,4 +15,20 @@
 .menuItem {
    list-style: none;
    align-items: center;
+   font-size: 20px;
+
+}
+
+#title{
+   color:rgba(0, 0, 255, 0.616);
+   font-family: "Times New Roman",Times,Serif;
+   text-align: center;
+   font-size: 80px;
+
+}
+#NDC{
+   color:rgb(0, 0, 255);
+   text-align: center;
+   font-size: 30px;
+
 }
