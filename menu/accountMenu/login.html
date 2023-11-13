@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="Content-Type" content="width=device-width, initial-scale=1.0">
+   <title>ReMedMe Account</title>
+   <link href="../../resources/homePage.css" rel="stylesheet" type="text/css">
+   <script type="text/javascript" src="../resources/homePage.js"></script>
+</head>
+
+<body>
+   <h1 id="title">ReMedMe Account</h1>
+   
+   <form id="NDC" name="NDC" method="post" onsubmit="return login(this)">
+      <label class="username" for="NDC_code">Enter Username: </label>
+      <div class="value"><input type="text" value="" name="username" id="username" onblur="clear()" onfocus="populate()"></div>
+   </form>
+
+   <div id="menu">
+      <ul>
+         <li class="menuItem"><a href="./menu/history.html">History</a></li>
+         <li class="menuItem"><a href="./menu/calender.html">Calender</a></li>
+         <li class="menuItem"><a href="./menu/account.html">Account</a></li>
+      </ul>
+   </div>
+</body>
+</html>
